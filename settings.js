@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348109263390"
-global.ownername = "ElitePro"
-global.ytname = "YT: @ElitePro-Empire"
+global.ownernomer = "263776267949"
+global.ownername = "Discovery deBug"
+global.ytname = "YT: @Discovery"
 global.socialm = "GitHub: Elite-MD"
-global.location = "Nigeria, Port Harcourt"
+global.location = "Zimbabwe, Harare"
 
-global.ownernumber = '2348109263390'  //creator number
-global.ownername = 'ElitePro' //owner name
-global.botname = 'ELITE-PRO' //name of the bot
+global.ownernumber = '263776267949'  //creator number
+global.ownername = 'Discovery deBug//owner name
+global.botname = 'Hakken //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -51,10 +51,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by ElitePro or premium user only',
-    admin: 'This feature can be used by ElitePro or admin only',
+    prem: 'This feature can be used by Discovery deBug or premium user only',
+    admin: 'This feature can be used by Discovery deBug or admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by ElitePro or owner only',
+    owner: 'This feature can be used by Discovery deBug or owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
